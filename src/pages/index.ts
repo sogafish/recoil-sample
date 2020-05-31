@@ -1,3 +1,3 @@
 export { Home } from './Home';
-export { Roster } from './Roster';
+export { List } from './List';
 export { Edit } from './Edit';
